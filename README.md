@@ -1,2 +1,1 @@
-# blog
-Dreams137's blog assets.
+# Dreams137's blog assets.
