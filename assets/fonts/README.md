@@ -1,4 +1,4 @@
-## Fonts List
+#### Fonts List
 - __Axiforma__
   - Axiforma Regular / Axiforma Light as Regular font. *`font-weight: 400; font-style: normal`*
   - Axiforma Italic / Axiforma Light Italic as Regular Italic font. *`font-weight: 400; font-style: italic`*
