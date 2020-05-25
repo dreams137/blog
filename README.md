@@ -1,5 +1,5 @@
 **PROJECT BT**
-![DAYDREAMS](https://ghcdn.rawgit.org/dreams137/daydream/master/logo/project-logo.svg)
+![DAYDREAMS](https://ghcdn.rawgit.org/dreams137/daydream/master/project/logo/daydream-red.svg)
 
 ---
 
