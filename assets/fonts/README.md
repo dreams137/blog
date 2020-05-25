@@ -1,3 +1,5 @@
+Fonts assets.
+
 #### Fonts List
 - __Axiforma__
   - Axiforma Regular / Axiforma Light as Regular font. *`font-weight: 400; font-style: normal`*
