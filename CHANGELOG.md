@@ -5,5 +5,5 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/) and this 
 
 ## [Beta.0.1](https://github.com/dreams137/daydream/tree/beta.0.1) - 2020-05-25
 ### Added
-- Project logo in [Logo folder](Logo).
+- Project logo in [Logo folder](logo).
 - New branch/version named beta-0.1.
