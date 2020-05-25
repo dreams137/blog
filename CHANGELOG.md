@@ -3,6 +3,6 @@ All notable changes to this project will be documented in this file based on for
 
 ## Beta.0.1 - 2020-05-25
 ### Added
-- Upload Project logo(s).
-- Upload Shentox Medium font assets.
-- Upload Axiforma Regular & Italic font assets.
+- Project logo(s).
+- Shentox Medium font assets.
+- Axiforma Regular & Italic font assets.
