@@ -7,7 +7,7 @@ Some *(maybe all)* modules need scripts below to run:
 - ![Modernzr v3.6.0 ~ Custom build touch & class prefix](https://modernizr.com/).
 - ![Waypoints](http://imakewebthings.com/waypoints/).
 - JSBreakPoint by Fayearth.
-- [Data users blogspot ID](data/users/blogid.js)
+- Data users blogspot ID.
 
 #### How they Work
 All modules can only work when they're called with *__Modules Caller__* script.
