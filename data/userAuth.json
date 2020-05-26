@@ -1,0 +1,20 @@
+{
+  "themeName" : "Bloodbath"
+  "themeID" : "bt05-bloodbath"
+  "themeCreator" : "ReGega"
+  "themeURL" : "https://rg-themenation.xys/"
+  "authorizedTo": [
+    {
+      "userName" : "Dreamz",
+      "blogName" : "137dreams",
+      "blogURL" :"https://137dreamz.blogspot.com/",
+      "blogID" : 8160139560924233541
+    },
+    {
+      "userName" : "Dreams",
+      "blogName" : "Daydream by Dreams137",
+      "blogURL" : "https://daydream137.blogspot.com/",
+      "blogID" : 8160139560924233541
+    }
+  ]
+}
