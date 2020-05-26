@@ -1,5 +1,5 @@
-**PROJECT BT - DayDream**
-![DAYDREAMS](https://ghcdn.rawgit.org/dreams137/daydream/master/data/logo/theme/bloodbath-red.svg)
+**PROJECT BT - DAYDREAM**
+![BLOODBATH](https://ghcdn.rawgit.org/dreams137/daydream/master/data/logo/theme/bloodbath-red.svg)
 
 ---
 
