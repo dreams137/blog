@@ -1,7 +1,13 @@
 # Change Log
 All notable changes to this project will be documented in this file based on format [Keep a Changelog](https://keepachangelog.com/).
 
-## Alpha-2 - 2020-05-26
+## Alpha-3 - ?
+### Fixed
+1. Moved Project logo into the correct folder.
+
+---
+
+## Alpha-2 - 2020-05-29
 ### Added
 1. Theme logo.
    - Bloodbath Full Red SVG.
@@ -11,8 +17,6 @@ All notable changes to this project will be documented in this file based on for
 2. Axiforma Bold font assets.
 ### Changed
 1. Update Project README - Add browser compability.
-### Fixed
-1. Moved Project logo into the correct folder.
 
 ---
 
