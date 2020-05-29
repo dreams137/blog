@@ -15,6 +15,12 @@
 - **Design**: Blog, Personal Blog, Minimalist, Responsive.
 - **Type**: 2 Columns.
 
+## Documentation
+_under construction_
+
+## Change log
+We'll keep track of each updates in the [CHANGELOG.md](CHANGELOG.md).
+
 ## Browser Compability
 #### Desktop
 |           |Chrome |Firefox |Internet Explorer |Microsoft Edge |Opera |Safari |
@@ -25,6 +31,3 @@
 |           |Android Browser & WebView |Chrome |Firefox |Microsoft Edge |Opera |Safari |
 |-----------|--------------------------|-------|--------|---------------|------|-------|
 |**Version**|Android 4.4               |25+    |49+     |12+            |12.1+ |7+     |
-
-## Change log
-We'll keep track of each updates in the [CHANGELOG.md](CHANGELOG.md).
