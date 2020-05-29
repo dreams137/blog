@@ -10,7 +10,7 @@ All notable changes to this project will be documented in this file based on for
    - Bloodbath White SVG + PNG.
 2. Axiforma Bold font assets.
 ### Changed
-1. Update Project README.
+1. Update Project README - Add browser compability.
 ### Fixed
 1. Moved Project logo into the correct folder.
 
