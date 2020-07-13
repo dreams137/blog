@@ -3,7 +3,7 @@ All notable changes to this project will be documented in this file based on for
 
 ## Alpha-3 - ?
 ### Added
-1. Play button svg.
+1. Play button svg asset.
 ### Fixed
 1. Moved Project logo into the correct folder.
 
