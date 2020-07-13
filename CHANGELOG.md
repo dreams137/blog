@@ -2,6 +2,8 @@
 All notable changes to this project will be documented in this file based on format [Keep a Changelog](https://keepachangelog.com/).
 
 ## Alpha-3 - ?
+### Added
+1. Play button svg.
 ### Fixed
 1. Moved Project logo into the correct folder.
 
